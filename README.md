@@ -1,10 +1,7 @@
 
 Core Quote Compiler
 
-This program reads all pdf files in a folder and creates a dictionary
-of unique items with a list of it's prices as the item's value. Two
-dictionaries are created based on "EA" or "LF", these dictionaries are
-exported to an excel file to sheets based on unit.
+This is a program I developed to expedite work at my office. It draws information from itemized pdf quotes. Cleans and organizes the data and outputs a formatted excel spreadsheet for faster product searches. Compiling 6-months of quotes ensured that accurate pricing could be estimated. 
 
 Required packages: openpyxl, pyPDF2,
 the program requires user input to run
